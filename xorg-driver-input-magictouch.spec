@@ -1,5 +1,5 @@
 Summary:	X.org input driver for MagicTouch devices
-Summary(pl.UTF-8):   Sterownik wejściowy X.org dla urządzeń MagicTouch
+Summary(pl.UTF-8):	Sterownik wejściowy X.org dla urządzeń MagicTouch
 Name:		xorg-driver-input-magictouch
 Version:	1.0.0.5
 Release:	0.1
